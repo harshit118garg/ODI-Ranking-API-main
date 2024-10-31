@@ -17,7 +17,8 @@
             "New",
             "Truffle",
             "Tangy"
-        ]
+        ],
+        "rating": 1.3
     },
     {
         "id": 2,
@@ -35,7 +36,8 @@
         "availability": true,
         "tags": [
             "New"
-        ]
+        ],
+        "rating": 2.6
     },
     {
         "id": 3,
@@ -54,7 +56,8 @@
         "tags": [
             "Chef's Special",
             "Low-Calorie"
-        ]
+        ],
+        "rating": 4
     },
     {
         "id": 4,
@@ -72,7 +75,8 @@
         "availability": false,
         "tags": [
             "Vegan"
-        ]
+        ],
+        "rating": 3.5
     },
     {
         "id": 5,
@@ -91,7 +95,8 @@
         "tags": [
             "Low-Calorie",
             "Dairy-Free"
-        ]
+        ],
+        "rating": 1.4
     },
     {
         "id": 6,
@@ -110,7 +115,8 @@
         "tags": [
             "Tangy",
             "Limited Edition"
-        ]
+        ],
+        "rating": 4.6
     },
     {
         "id": 7,
@@ -129,7 +135,8 @@
         "tags": [
             "Seasonal",
             "Top Choice"
-        ]
+        ],
+        "rating": 2.6
     },
     {
         "id": 8,
@@ -149,7 +156,8 @@
             "Gluten-Free",
             "Keto-Friendly",
             "Tangy"
-        ]
+        ],
+        "rating": 3
     },
     {
         "id": 9,
@@ -167,7 +175,8 @@
         "availability": true,
         "tags": [
             null
-        ]
+        ],
+        "rating": 2.1
     },
     {
         "id": 10,
@@ -185,7 +194,8 @@
         "availability": true,
         "tags": [
             "Spicy"
-        ]
+        ],
+        "rating": 4.7
     },
     {
         "id": 11,
@@ -203,7 +213,8 @@
         "availability": true,
         "tags": [
             "Customer Favorite"
-        ]
+        ],
+        "rating": 1.9
     },
     {
         "id": 12,
@@ -222,7 +233,8 @@
         "tags": [
             "Gluten-Free",
             "Low-Calorie"
-        ]
+        ],
+        "rating": 5.9
     },
     {
         "id": 13,
@@ -241,7 +253,8 @@
         "tags": [
             "Double Pepperoni",
             "Chef's Special"
-        ]
+        ],
+        "rating": 2.2
     },
     {
         "id": 14,
@@ -259,7 +272,8 @@
         "availability": true,
         "tags": [
             "Truffle"
-        ]
+        ],
+        "rating": 5.3
     },
     {
         "id": 15,
@@ -279,7 +293,8 @@
             "Keto-Friendly",
             "Dairy-Free",
             "Top Choice"
-        ]
+        ],
+        "rating": 5.9
     },
     {
         "id": 16,
@@ -297,7 +312,8 @@
         "availability": true,
         "tags": [
             "Low-Calorie"
-        ]
+        ],
+        "rating": 3.5
     },
     {
         "id": 17,
@@ -317,7 +333,8 @@
             "Organic",
             "Party Special",
             "Vegetarian"
-        ]
+        ],
+        "rating": 3.9
     },
     {
         "id": 18,
@@ -337,7 +354,8 @@
             "Chef's Special",
             "Keto-Friendly",
             "Gluten-Free"
-        ]
+        ],
+        "rating": 2.5
     },
     {
         "id": 19,
@@ -355,7 +373,8 @@
         "availability": true,
         "tags": [
             "Gourmet"
-        ]
+        ],
+        "rating": 1.6
     },
     {
         "id": 20,
@@ -373,7 +392,8 @@
         "availability": true,
         "tags": [
             "Vegan"
-        ]
+        ],
+        "rating": 3.5
     },
     {
         "id": 21,
@@ -392,7 +412,8 @@
         "tags": [
             "Tangy",
             "Low-Calorie"
-        ]
+        ],
+        "rating": 4.2
     },
     {
         "id": 22,
@@ -411,7 +432,8 @@
         "tags": [
             "New",
             "Family Size"
-        ]
+        ],
+        "rating": 4.9
     },
     {
         "id": 23,
@@ -430,7 +452,8 @@
         "tags": [
             "Chef's Special",
             "Extra Cheese"
-        ]
+        ],
+        "rating": 1.1
     },
     {
         "id": 24,
@@ -450,7 +473,8 @@
             "Truffle",
             "Low-Calorie",
             "Best Seller"
-        ]
+        ],
+        "rating": 2.1
     },
     {
         "id": 25,
@@ -468,7 +492,8 @@
         "availability": true,
         "tags": [
             "Veggie Loaded"
-        ]
+        ],
+        "rating": 5.5
     },
     {
         "id": 26,
@@ -488,7 +513,8 @@
             "Organic",
             "Popular",
             "Gourmet"
-        ]
+        ],
+        "rating": 1.2
     },
     {
         "id": 27,
@@ -507,7 +533,8 @@
         "tags": [
             "Organic",
             "Chef's Special"
-        ]
+        ],
+        "rating": 3.4
     },
     {
         "id": 28,
@@ -526,7 +553,8 @@
         "tags": [
             "Vegan",
             "Gluten-Free"
-        ]
+        ],
+        "rating": 1.8
     },
     {
         "id": 29,
@@ -546,7 +574,8 @@
             "Customer Favorite",
             "Popular",
             "Gourmet"
-        ]
+        ],
+        "rating": 1.4
     },
     {
         "id": 30,
@@ -565,7 +594,8 @@
         "tags": [
             "Family Size",
             "Vegetarian"
-        ]
+        ],
+        "rating": 4
     },
     {
         "id": 31,
@@ -584,7 +614,8 @@
         "tags": [
             "Dairy-Free",
             "Truffle"
-        ]
+        ],
+        "rating": 3.7
     },
     {
         "id": 32,
@@ -603,7 +634,8 @@
         "tags": [
             "Gluten-Free",
             "Organic"
-        ]
+        ],
+        "rating": 2.1
     },
     {
         "id": 33,
@@ -623,7 +655,8 @@
             "Limited Edition",
             "Dairy-Free",
             "All-Meat"
-        ]
+        ],
+        "rating": 5.9
     },
     {
         "id": 34,
@@ -642,7 +675,8 @@
         "tags": [
             "New",
             "Keto-Friendly"
-        ]
+        ],
+        "rating": 1.4
     },
     {
         "id": 35,
@@ -660,7 +694,8 @@
         "availability": false,
         "tags": [
             "Veggie Loaded"
-        ]
+        ],
+        "rating": 1.4
     },
     {
         "id": 36,
@@ -680,7 +715,8 @@
             "Signature",
             "Chef's Special",
             "Dairy-Free"
-        ]
+        ],
+        "rating": 2.8
     },
     {
         "id": 37,
@@ -698,7 +734,8 @@
         "availability": true,
         "tags": [
             "Top Choice"
-        ]
+        ],
+        "rating": 2.3
     },
     {
         "id": 38,
@@ -718,7 +755,8 @@
             "Popular",
             "Customer Favorite",
             "Low-Calorie"
-        ]
+        ],
+        "rating": 1.5
     },
     {
         "id": 39,
@@ -737,7 +775,8 @@
         "tags": [
             "Veggie Loaded",
             "Office Lunch"
-        ]
+        ],
+        "rating": 4.3
     },
     {
         "id": 40,
@@ -755,6 +794,7 @@
         "availability": true,
         "tags": [
             "Gourmet"
-        ]
+        ],
+        "rating": 2.4
     }
 ]
