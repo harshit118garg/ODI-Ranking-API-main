@@ -1,0 +1,642 @@
+[
+  {
+    id: 1,
+    image: {
+      id: '1',
+      width: 2000,
+      height: 3000,
+      title: 'Pizzas In Brown Carton Boxes',
+      url: 
+        'https://images.pexels.com/photos/4109078/pexels-photo-4109078.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Margherita',
+    description: 'Classic pizza with tomato sauce, mozzarella, and fresh basil.',
+    price: 7.99,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 2,
+    image: {
+      id: '2',
+      width: 6000,
+      height: 4000,
+      title: 'Photo Of People Holding Pizza ',
+      url: 
+        'https://images.pexels.com/photos/3944307/pexels-photo-3944307.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Pepperoni',
+    description: 'Tomato sauce, mozzarella, and lots of pepperoni.',
+    price: 8.99,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 3,
+    image: {
+      id: '3',
+      width: 3024,
+      height: 4032,
+      title: 'Freshly Baked Pizza',
+      url: 
+        'https://images.pexels.com/photos/2295285/pexels-photo-2295285.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Four Cheese',
+    description: 'Blend of mozzarella, parmesan, blue cheese, and goat cheese.',
+    price: 9.99,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 4,
+    image: {
+      id: '4',
+      width: 2747,
+      height: 1819,
+      title: 'Pizza on Stainless Steel Tray',
+      url: 
+        'https://images.pexels.com/photos/845797/pexels-photo-845797.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Hawaiian',
+    description: 'Ham, pineapple, mozzarella, and tomato sauce.',
+    price: 8.49,
+    category: 'Meat',
+    availability: false
+  },
+  {
+    id: 5,
+    image: {
+      id: '5',
+      width: 4702,
+      height: 3648,
+      title: 'Person Holding a Vegetable Pizza',
+      url: 
+        'https://images.pexels.com/photos/3762069/pexels-photo-3762069.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'BBQ Chicken',
+    description: 'BBQ sauce, chicken, red onions, and cilantro.',
+    price: 9.49,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 6,
+    image: {
+      id: '6',
+      width: 5401,
+      height: 3741,
+      title: 'Appetizing pizza with shrimps and champignon on wooden table',
+      url: 
+        'https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Veggie Supreme',
+    description: 'Tomato, green peppers, onions, mushrooms, and olives.',
+    price: 8.99,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 7,
+    image: {
+      id: '7',
+      width: 4000,
+      height: 6000,
+      title: 'Woman Eating Pizza',
+      url: 
+        'https://images.pexels.com/photos/2323182/pexels-photo-2323182.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Meat Lovers',
+    description: 'Pepperoni, sausage, ham, bacon, and ground beef.',
+    price: 10.49,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 8,
+    image: {
+      id: '8',
+      width: 3154,
+      height: 4731,
+      title: 'Close-Up Photo of Pizza',
+      url: 
+        'https://images.pexels.com/photos/3343626/pexels-photo-3343626.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'White Pizza',
+    description: 'Ricotta, mozzarella, garlic, and spinach.',
+    price: 8.79,
+    category: 'Vegetarian',
+    availability: false
+  },
+  {
+    id: 9,
+    image: {
+      id: '9',
+      width: 4272,
+      height: 2848,
+      title: 'Pizza With Raisins on Top',
+      url: 
+        'https://images.pexels.com/photos/2274787/pexels-photo-2274787.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Buffalo Chicken',
+    description: 'Buffalo sauce, chicken, mozzarella, and blue cheese.',
+    price: 9.99,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 10,
+    image: {
+      id: '10',
+      width: 2614,
+      height: 3281,
+      title: 'Couple Lying Down Eating Pizza',
+      url: 
+        'https://images.pexels.com/photos/4348786/pexels-photo-4348786.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Mexican Fiesta',
+    description: 'Taco-seasoned ground beef, jalapeños, and cheddar cheese.',
+    price: 9.29,
+    category: 'Spicy',
+    availability: true
+  },
+  {
+    id: 11,
+    image: {
+      id: '11',
+      width: 1365,
+      height: 2048,
+      title: 'Person Making a Dough',
+      url: 
+        'https://images.pexels.com/photos/784636/pexels-photo-784636.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Mushroom Delight',
+    description: 'Mushrooms, mozzarella, and garlic butter base.',
+    price: 8.69,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 12,
+    image: {
+      id: '12',
+      width: 1664,
+      height: 2496,
+      title: 'A Woman Holding A Red Pizza Signboard',
+      url: 
+        'https://images.pexels.com/photos/2917598/pexels-photo-2917598.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Seafood Special',
+    description: 'Shrimp, crab meat, mozzarella, and garlic.',
+    price: 11.99,
+    category: 'Seafood',
+    availability: false
+  },
+  {
+    id: 13,
+    image: {
+      id: '13',
+      width: 3793,
+      height: 5689,
+      title: 'Person Holding Sliced of Pizza',
+      url: 
+        'https://images.pexels.com/photos/4004465/pexels-photo-4004465.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Sausage Fest',
+    description: 'Sausage, bell peppers, onions, and mozzarella.',
+    price: 9.19,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 14,
+    image: {
+      id: '14',
+      width: 6240,
+      height: 4160,
+      title: 'Pizza on Brown Wooden Table',
+      url: 
+        'https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Spinach Feta',
+    description: 'Spinach, feta cheese, mozzarella, and garlic base.',
+    price: 8.79,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 15,
+    image: {
+      id: '15',
+      width: 6240,
+      height: 4160,
+      title: 'Pizza on Wooden Table',
+      url: 
+        'https://images.pexels.com/photos/3682838/pexels-photo-3682838.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Pesto Chicken',
+    description: 'Pesto sauce, chicken, tomatoes, and mozzarella.',
+    price: 9.59,
+    category: 'Meat',
+    availability: false
+  },
+  {
+    id: 16,
+    image: {
+      id: '16',
+      width: 5999,
+      height: 3550,
+      title: 'Person Pouring A Drink Into A Glass',
+      url: 
+        'https://images.pexels.com/photos/3944308/pexels-photo-3944308.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Garden Veggie',
+    description: 'Tomatoes, onions, bell peppers, and olives.',
+    price: 8.29,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 17,
+    image: {
+      id: '17',
+      width: 4935,
+      height: 3456,
+      title: 'Copy Space Photo of Pizza on Table',
+      url: 
+        'https://images.pexels.com/photos/2909821/pexels-photo-2909821.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Cheeseburger',
+    description: 'Ground beef, cheddar, mozzarella, pickles, and onions.',
+    price: 9.99,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 18,
+    image: {
+      id: '18',
+      width: 2747,
+      height: 1819,
+      title: 'Pizza Meal on Stainless Steel Tray',
+      url: 
+        'https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Truffle Mushroom',
+    description: 'Truffle oil, mushrooms, mozzarella, and arugula.',
+    price: 10.99,
+    category: 'Vegetarian',
+    availability: false
+  },
+  {
+    id: 19,
+    image: {
+      id: '19',
+      width: 2819,
+      height: 3648,
+      title: 'Cheese Pizza',
+      url: 
+        'https://images.pexels.com/photos/2762942/pexels-photo-2762942.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Chicken Alfredo',
+    description: 'Alfredo sauce, chicken, and mozzarella.',
+    price: 9.49,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 20,
+    image: {
+      id: '20',
+      width: 5184,
+      height: 3456,
+      title: 'Pizza With Red Pepper and Cheese',
+      url: 
+        'https://images.pexels.com/photos/1049620/pexels-photo-1049620.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Taco Pizza',
+    description: 'Taco sauce, ground beef, cheddar, and lettuce.',
+    price: 9.29,
+    category: 'Spicy',
+    availability: true
+  },
+  {
+    id: 21,
+    image: {
+      id: '21',
+      width: 3008,
+      height: 2000,
+      title: 'Close-up Photography of Pizza',
+      url: 
+        'https://images.pexels.com/photos/1166120/pexels-photo-1166120.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Cheesy Garlic',
+    description: 'Garlic butter base, mozzarella, and cheddar.',
+    price: 8.49,
+    category: 'Vegetarian',
+    availability: false
+  },
+  {
+    id: 22,
+    image: {
+      id: '22',
+      width: 5916,
+      height: 3944,
+      title: 'Pizza on Food Tray',
+      url: 
+        'https://images.pexels.com/photos/2714722/pexels-photo-2714722.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Chili Chicken',
+    description: 'Spicy chili sauce, chicken, jalapeños, and mozzarella.',
+    price: 9.89,
+    category: 'Spicy',
+    availability: true
+  },
+  {
+    id: 23,
+    image: {
+      id: '23',
+      width: 4320,
+      height: 2432,
+      title: 'Brown and Red Pepperoni Pizza',
+      url: 
+        'https://images.pexels.com/photos/166451/pexels-photo-166451.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Prosciutto Arugula',
+    description: 'Prosciutto, arugula, mozzarella, and balsamic glaze.',
+    price: 10.99,
+    category: 'Gourmet',
+    availability: true
+  },
+  {
+    id: 24,
+    image: {
+      id: '24',
+      width: 6000,
+      height: 4000,
+      title: 'Top View Photo Of Sliced Pizza',
+      url: 
+        'https://images.pexels.com/photos/2180877/pexels-photo-2180877.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Cheese Lover',
+    description: 'Extra cheese blend on a tomato sauce base.',
+    price: 8.79,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 25,
+    image: {
+      id: '25',
+      width: 7490,
+      height: 4996,
+      title: 'Pepperoni Pizza on Plate',
+      url: 
+        'https://images.pexels.com/photos/2260555/pexels-photo-2260555.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Super Supreme',
+    description: 'Pepperoni, sausage, bell peppers, onions, and olives.',
+    price: 10.49,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 26,
+    image: {
+      id: '26',
+      width: 3648,
+      height: 3648,
+      title: '4 Slices Of Pizza',
+      url: 
+        'https://images.pexels.com/photos/2762939/pexels-photo-2762939.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Mediterranean',
+    description: 'Feta cheese, olives, and sun-dried tomatoes.',
+    price: 9.19,
+    category: 'Gourmet',
+    availability: false
+  },
+  {
+    id: 27,
+    image: {
+      id: '27',
+      width: 4000,
+      height: 6000,
+      title: 'Green-haired Woman Eating Pizza',
+      url: 
+        'https://images.pexels.com/photos/2323183/pexels-photo-2323183.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Hot Pepperoni',
+    description: 'Extra-spicy pepperoni, mozzarella, and chili flakes.',
+    price: 9.59,
+    category: 'Spicy',
+    availability: true
+  },
+  {
+    id: 28,
+    image: {
+      id: '28',
+      width: 7318,
+      height: 4879,
+      title: 'Food Photography of Pizza',
+      url: 
+        'https://images.pexels.com/photos/1552635/pexels-photo-1552635.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Classic Veggie',
+    description: 'Mushrooms, bell peppers, and onions.',
+    price: 8.69,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 29,
+    image: {
+      id: '29',
+      width: 3024,
+      height: 4032,
+      title: 'Cooked Food',
+      url: 
+        'https://images.pexels.com/photos/2471171/pexels-photo-2471171.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Greek Pizza',
+    description: 'Feta, olives, tomatoes, and red onions.',
+    price: 9.49,
+    category: 'Gourmet',
+    availability: true
+  },
+  {
+    id: 30,
+    image: {
+      id: '30',
+      width: 5184,
+      height: 3456,
+      title: 'Regal Pan Pizza on Box',
+      url: 
+        'https://images.pexels.com/photos/375467/pexels-photo-375467.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Ghost Pepper',
+    description: 'Ghost pepper sauce, mozzarella, and spicy chicken.',
+    price: 10.29,
+    category: 'Spicy',
+    availability: false
+  },
+  {
+    id: 31,
+    image: {
+      id: '31',
+      width: 3024,
+      height: 4032,
+      title: 'Baked Pizza Pie on White Table',
+      url: 
+        'https://images.pexels.com/photos/2120483/pexels-photo-2120483.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Triple Meat',
+    description: 'Pepperoni, sausage, and ground beef.',
+    price: 9.99,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 32,
+    image: {
+      id: '32',
+      width: 2747,
+      height: 1819,
+      title: 'Pepperoni Pizza With Eggs',
+      url: 
+        'https://images.pexels.com/photos/845802/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'BBQ Veggie',
+    description: 'BBQ sauce, bell peppers, onions, and corn.',
+    price: 8.99,
+    category: 'Vegetarian',
+    availability: false
+  },
+  {
+    id: 33,
+    image: {
+      id: '33',
+      width: 2000,
+      height: 3000,
+      title: 'Person Holding A Slice of Pizza',
+      url: 
+        'https://images.pexels.com/photos/4109077/pexels-photo-4109077.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Italian Classic',
+    description: 'Tomato sauce, mozzarella, basil, and olives.',
+    price: 8.49,
+    category: 'Vegetarian',
+    availability: true
+  },
+  {
+    id: 34,
+    image: {
+      id: '34',
+      width: 5472,
+      height: 3648,
+      title: 'Two Pizza in Stove',
+      url: 
+        'https://images.pexels.com/photos/1093015/pexels-photo-1093015.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Smoky Bacon',
+    description: 'Smoky bacon, onions, mozzarella, and cheddar.',
+    price: 9.79,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 35,
+    image: {
+      id: '35',
+      width: 3530,
+      height: 2983,
+      title: 'Rectangular Pizza',
+      url: 
+        'https://images.pexels.com/photos/162744/tomatoes-tomato-quiche-red-yellow-162744.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Buffalo Veggie',
+    description: 'Buffalo sauce, mushrooms, onions, and mozzarella.',
+    price: 9.29,
+    category: 'Spicy',
+    availability: false
+  },
+  {
+    id: 36,
+    image: {
+      id: '36',
+      width: 2448,
+      height: 3264,
+      title: 'Hot Pizza Led Signage',
+      url: 
+        'https://images.pexels.com/photos/846944/pexels-photo-846944.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Vegan Special',
+    description: 'Vegan cheese, mushrooms, bell peppers, and onions.',
+    price: 10.19,
+    category: 'Vegan',
+    availability: true
+  },
+  {
+    id: 37,
+    image: {
+      id: '37',
+      width: 2000,
+      height: 3000,
+      title: 'Sliced Pepperoni Pizza In Close-up View',
+      url: 
+        'https://images.pexels.com/photos/4109083/pexels-photo-4109083.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Cheesy Bacon',
+    description: 'Extra cheese and crispy bacon.',
+    price: 9.49,
+    category: 'Meat',
+    availability: true
+  },
+  {
+    id: 38,
+    image: {
+      id: '38',
+      width: 7477,
+      height: 4987,
+      title: 'Food on White Ceramic Plate Near Cloth',
+      url: 
+        'https://images.pexels.com/photos/1435903/pexels-photo-1435903.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Sweet Chili',
+    description: 'Sweet chili sauce, chicken, mozzarella, and onions.',
+    price: 9.69,
+    category: 'Gourmet',
+    availability: false
+  },
+  {
+    id: 39,
+    image: {
+      id: '39',
+      width: 4033,
+      height: 2689,
+      title: 'Close-up Photography of Pizza on White Ceramic Plate',
+      url: 
+        'https://images.pexels.com/photos/3644/pizza-restaurant-dinner-lunch.jpg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Sicilian',
+    description: 'Thick crust, tomato sauce, mozzarella, and olives.',
+    price: 10.79,
+    category: 'Gourmet',
+    availability: true
+  },
+  {
+    id: 40,
+    image: {
+      id: '40',
+      width: 5472,
+      height: 3648,
+      title: 'Person Holding Pizza on Wooden board',
+      url: 
+        'https://images.pexels.com/photos/3762075/pexels-photo-3762075.jpeg?auto=compress&cs=tinysrgb&w=750'
+    },
+    name: 'Vegan Margherita',
+    description: 'Vegan mozzarella, tomato sauce, and basil.',
+    price: 10.29,
+    category: 'Vegan',
+    availability: true
+  }
+]
