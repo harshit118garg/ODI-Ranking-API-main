@@ -12,7 +12,12 @@
         "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
         "price": 7.99,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "New",
+            "Truffle",
+            "Tangy"
+        ]
     },
     {
         "id": 2,
@@ -27,7 +32,10 @@
         "description": "Tomato sauce, mozzarella, and lots of pepperoni.",
         "price": 8.99,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "New"
+        ]
     },
     {
         "id": 3,
@@ -42,7 +50,11 @@
         "description": "Blend of mozzarella, parmesan, blue cheese, and goat cheese.",
         "price": 9.99,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Chef's Special",
+            "Low-Calorie"
+        ]
     },
     {
         "id": 4,
@@ -57,7 +69,10 @@
         "description": "Ham, pineapple, mozzarella, and tomato sauce.",
         "price": 8.49,
         "category": "Meat",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Vegan"
+        ]
     },
     {
         "id": 5,
@@ -72,7 +87,11 @@
         "description": "BBQ sauce, chicken, red onions, and cilantro.",
         "price": 9.49,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Low-Calorie",
+            "Dairy-Free"
+        ]
     },
     {
         "id": 6,
@@ -87,7 +106,11 @@
         "description": "Tomato, green peppers, onions, mushrooms, and olives.",
         "price": 8.99,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Tangy",
+            "Limited Edition"
+        ]
     },
     {
         "id": 7,
@@ -102,7 +125,11 @@
         "description": "Pepperoni, sausage, ham, bacon, and ground beef.",
         "price": 10.49,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Seasonal",
+            "Top Choice"
+        ]
     },
     {
         "id": 8,
@@ -117,7 +144,12 @@
         "description": "Ricotta, mozzarella, garlic, and spinach.",
         "price": 8.79,
         "category": "Vegetarian",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Gluten-Free",
+            "Keto-Friendly",
+            "Tangy"
+        ]
     },
     {
         "id": 9,
@@ -132,7 +164,10 @@
         "description": "Buffalo sauce, chicken, mozzarella, and blue cheese.",
         "price": 9.99,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            null
+        ]
     },
     {
         "id": 10,
@@ -147,7 +182,10 @@
         "description": "Taco-seasoned ground beef, jalapeños, and cheddar cheese.",
         "price": 9.29,
         "category": "Spicy",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Spicy"
+        ]
     },
     {
         "id": 11,
@@ -162,7 +200,10 @@
         "description": "Mushrooms, mozzarella, and garlic butter base.",
         "price": 8.69,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Customer Favorite"
+        ]
     },
     {
         "id": 12,
@@ -177,7 +218,11 @@
         "description": "Shrimp, crab meat, mozzarella, and garlic.",
         "price": 11.99,
         "category": "Seafood",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Gluten-Free",
+            "Low-Calorie"
+        ]
     },
     {
         "id": 13,
@@ -192,7 +237,11 @@
         "description": "Sausage, bell peppers, onions, and mozzarella.",
         "price": 9.19,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Double Pepperoni",
+            "Chef's Special"
+        ]
     },
     {
         "id": 14,
@@ -207,7 +256,10 @@
         "description": "Spinach, feta cheese, mozzarella, and garlic base.",
         "price": 8.79,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Truffle"
+        ]
     },
     {
         "id": 15,
@@ -222,7 +274,12 @@
         "description": "Pesto sauce, chicken, tomatoes, and mozzarella.",
         "price": 9.59,
         "category": "Meat",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Keto-Friendly",
+            "Dairy-Free",
+            "Top Choice"
+        ]
     },
     {
         "id": 16,
@@ -237,7 +294,10 @@
         "description": "Tomatoes, onions, bell peppers, and olives.",
         "price": 8.29,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Low-Calorie"
+        ]
     },
     {
         "id": 17,
@@ -252,7 +312,12 @@
         "description": "Ground beef, cheddar, mozzarella, pickles, and onions.",
         "price": 9.99,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Organic",
+            "Party Special",
+            "Vegetarian"
+        ]
     },
     {
         "id": 18,
@@ -267,7 +332,12 @@
         "description": "Truffle oil, mushrooms, mozzarella, and arugula.",
         "price": 10.99,
         "category": "Vegetarian",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Chef's Special",
+            "Keto-Friendly",
+            "Gluten-Free"
+        ]
     },
     {
         "id": 19,
@@ -282,7 +352,10 @@
         "description": "Alfredo sauce, chicken, and mozzarella.",
         "price": 9.49,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Gourmet"
+        ]
     },
     {
         "id": 20,
@@ -297,7 +370,10 @@
         "description": "Taco sauce, ground beef, cheddar, and lettuce.",
         "price": 9.29,
         "category": "Spicy",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Vegan"
+        ]
     },
     {
         "id": 21,
@@ -312,7 +388,11 @@
         "description": "Garlic butter base, mozzarella, and cheddar.",
         "price": 8.49,
         "category": "Vegetarian",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Tangy",
+            "Low-Calorie"
+        ]
     },
     {
         "id": 22,
@@ -327,7 +407,11 @@
         "description": "Spicy chili sauce, chicken, jalapeños, and mozzarella.",
         "price": 9.89,
         "category": "Spicy",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "New",
+            "Family Size"
+        ]
     },
     {
         "id": 23,
@@ -342,7 +426,11 @@
         "description": "Prosciutto, arugula, mozzarella, and balsamic glaze.",
         "price": 10.99,
         "category": "Gourmet",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Chef's Special",
+            "Extra Cheese"
+        ]
     },
     {
         "id": 24,
@@ -357,7 +445,12 @@
         "description": "Extra cheese blend on a tomato sauce base.",
         "price": 8.79,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Truffle",
+            "Low-Calorie",
+            "Best Seller"
+        ]
     },
     {
         "id": 25,
@@ -372,7 +465,10 @@
         "description": "Pepperoni, sausage, bell peppers, onions, and olives.",
         "price": 10.49,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Veggie Loaded"
+        ]
     },
     {
         "id": 26,
@@ -387,7 +483,12 @@
         "description": "Feta cheese, olives, and sun-dried tomatoes.",
         "price": 9.19,
         "category": "Gourmet",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Organic",
+            "Popular",
+            "Gourmet"
+        ]
     },
     {
         "id": 27,
@@ -402,7 +503,11 @@
         "description": "Extra-spicy pepperoni, mozzarella, and chili flakes.",
         "price": 9.59,
         "category": "Spicy",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Organic",
+            "Chef's Special"
+        ]
     },
     {
         "id": 28,
@@ -417,7 +522,11 @@
         "description": "Mushrooms, bell peppers, and onions.",
         "price": 8.69,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Vegan",
+            "Gluten-Free"
+        ]
     },
     {
         "id": 29,
@@ -432,7 +541,12 @@
         "description": "Feta, olives, tomatoes, and red onions.",
         "price": 9.49,
         "category": "Gourmet",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Customer Favorite",
+            "Popular",
+            "Gourmet"
+        ]
     },
     {
         "id": 30,
@@ -447,7 +561,11 @@
         "description": "Ghost pepper sauce, mozzarella, and spicy chicken.",
         "price": 10.29,
         "category": "Spicy",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Family Size",
+            "Vegetarian"
+        ]
     },
     {
         "id": 31,
@@ -462,7 +580,11 @@
         "description": "Pepperoni, sausage, and ground beef.",
         "price": 9.99,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Dairy-Free",
+            "Truffle"
+        ]
     },
     {
         "id": 32,
@@ -477,7 +599,11 @@
         "description": "BBQ sauce, bell peppers, onions, and corn.",
         "price": 8.99,
         "category": "Vegetarian",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Gluten-Free",
+            "Organic"
+        ]
     },
     {
         "id": 33,
@@ -492,7 +618,12 @@
         "description": "Tomato sauce, mozzarella, basil, and olives.",
         "price": 8.49,
         "category": "Vegetarian",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Limited Edition",
+            "Dairy-Free",
+            "All-Meat"
+        ]
     },
     {
         "id": 34,
@@ -507,7 +638,11 @@
         "description": "Smoky bacon, onions, mozzarella, and cheddar.",
         "price": 9.79,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "New",
+            "Keto-Friendly"
+        ]
     },
     {
         "id": 35,
@@ -522,7 +657,10 @@
         "description": "Buffalo sauce, mushrooms, onions, and mozzarella.",
         "price": 9.29,
         "category": "Spicy",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Veggie Loaded"
+        ]
     },
     {
         "id": 36,
@@ -537,7 +675,12 @@
         "description": "Vegan cheese, mushrooms, bell peppers, and onions.",
         "price": 10.19,
         "category": "Vegan",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Signature",
+            "Chef's Special",
+            "Dairy-Free"
+        ]
     },
     {
         "id": 37,
@@ -552,7 +695,10 @@
         "description": "Extra cheese and crispy bacon.",
         "price": 9.49,
         "category": "Meat",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Top Choice"
+        ]
     },
     {
         "id": 38,
@@ -567,7 +713,12 @@
         "description": "Sweet chili sauce, chicken, mozzarella, and onions.",
         "price": 9.69,
         "category": "Gourmet",
-        "availability": false
+        "availability": false,
+        "tags": [
+            "Popular",
+            "Customer Favorite",
+            "Low-Calorie"
+        ]
     },
     {
         "id": 39,
@@ -582,7 +733,11 @@
         "description": "Thick crust, tomato sauce, mozzarella, and olives.",
         "price": 10.79,
         "category": "Gourmet",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Veggie Loaded",
+            "Office Lunch"
+        ]
     },
     {
         "id": 40,
@@ -597,6 +752,9 @@
         "description": "Vegan mozzarella, tomato sauce, and basil.",
         "price": 10.29,
         "category": "Vegan",
-        "availability": true
+        "availability": true,
+        "tags": [
+            "Gourmet"
+        ]
     }
 ]
